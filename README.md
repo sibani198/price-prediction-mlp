@@ -1,10 +1,10 @@
 # price-prediction-mlp
-🏡 House Price Prediction using MLP and Other Models
+#🏡 House Price Prediction using MLP and Other Models
 
 This project was developed as part of Assignment 1 for a Kaggle-based competition focused on predicting house prices using machine learning techniques.
 The objective was to analyze the dataset, build multiple models, tune their performance, and submit predictions for the hidden test set on Kaggle.
 
-🎯 Project Overview
+#🎯 Project Overview
 
 The task was to predict the price of houses based on various features provided in the dataset.
 The competition was hosted on Kaggle, and participants were required to:
@@ -21,7 +21,7 @@ Perform hyperparameter tuning on 3 models
 
 Compare model performances and submit predictions
 
-📊 Approach
+#📊 Approach
 
 Data Exploration & Cleaning
 
@@ -75,7 +75,7 @@ Compared model performance based on R² Score and Mean Squared Error (MSE)
 
 Final submission made using the best-performing model (MLP)
 
-🧠 Results
+#🧠 Results
 
 Achieved an R² score of 0.6443, which was remarkably close to the target benchmark of 0.65 required for full marks.
 
@@ -83,7 +83,7 @@ Despite the narrow gap, the model demonstrated strong predictive performance and
 
 The leaderboard score reflected consistent improvement across models after hyperparameter tuning.
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Language: Python
 
@@ -91,7 +91,7 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 Platform: Kaggle
 
-📈 Key Insights
+#📈 Key Insights
 
 Feature scaling and encoding had a significant impact on model accuracy.
 
@@ -99,7 +99,7 @@ Ensemble methods like Random Forest and Gradient Boosting performed well, but th
 
 Handling outliers and missing data was crucial in improving performance.
 
-📹 Walkthrough
+#📹 Walkthrough
 
 As per assignment requirements, a video walkthrough (8–12 minutes) was created, demonstrating:
 
